@@ -20,7 +20,7 @@ TDD is not a testing tool but a **software design tool** that will help us to bu
 1. Make the test pass (green)
 1. Refactor your code as needed to keep it clean while keeping the tests passing
 
-To "test drive" this kata, just start for the simplest case and wait that you solution won't run, then fix it until it passes the test and refactor it as soon as you feel that code is duplicated or becomes a mess.
+To "test drive" this kata, just start for the simplest case and wait that your solution won't run, then fix it until it passes the test and refactor it as soon as you feel the code is duplicated or becomes a mess.
 
 # Debugging tests in VS Code
 
