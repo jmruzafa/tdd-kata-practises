@@ -1,4 +1,4 @@
 # tdd-kata-practises
-Here you can find some katas of practises to start with TDD. Feel free to clone / fork them. I will provide the skeleton and the solution in a separate solution
+Here you can find some katas or practises to start with TDD. Feel free to clone / fork them. I will provide the skeleton and the solution in a separate solution
 
-Some of them will be solved using .net core while others could be using Node.js or Python or all of them :)
+Most of them will be solved using .Net Core but also some could be done using Node.js or Python or all of them :)
